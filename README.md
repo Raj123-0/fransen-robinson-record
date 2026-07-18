@@ -93,7 +93,7 @@ Ensure fransen_robinson_1500_digits.txt is in your directory. The script will co
 python fransen_robinson_verifier.py
 
 
-🏆 Acknowledgments
+ Acknowledgments
 
 Fredrik Johansson for the prior 1,000-digit computation of this constant.
 
