@@ -1,4 +1,4 @@
-This repository contains the heavily optimized Python scripts and verification engines used to compute the decimal expansion of the Fransén-Robinson constant to 1,500 significant digits, establishing a new unofficial computational record.
+This repository contains the heavily optimized Python scripts and verification engines used to compute the decimal expansion of the Fransén-Robinson constant to 1,500 significant digits, establishing a new computational record.
 
 The previous known record (approx. 1,025 digits) was extended using purely consumer hardware by mathematically determining finite integral truncation points and distributing asymmetric algorithmic workloads across a multi-core CPU.
 
